@@ -1,0 +1,25 @@
+{
+  "name": "babel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v5zz/babel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v5zz/babel/issues"
+  },
+  "homepage": "https://github.com/v5zz/babel#readme",
+  "devDependencies": {
+    "@babel/generator": "^7.12.5",
+    "@babel/parser": "^7.12.5",
+    "@babel/traverse": "^7.12.5",
+    "@babel/types": "^7.12.6"
+  }
+}

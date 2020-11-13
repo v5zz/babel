@@ -1,0 +1,23 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+/dist
+
+
+# lock
+package-lock.json
+yarn.lock
+
+*.log
+*.zip
+*.rar
+*.7z
+
+.idea
+.cache
+.tmp
